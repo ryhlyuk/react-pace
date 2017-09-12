@@ -18,7 +18,7 @@ module.exports = class Pace extends React.Component {
 
   render() {
     return (
-      <div>Pace</div>
+      <div></div>
     )
   }
 }
